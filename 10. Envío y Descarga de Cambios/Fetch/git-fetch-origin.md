@@ -1,4 +1,4 @@
-### git fecth origin
+### git fetch origin
 
 # ¿Para qué sirve?
 
