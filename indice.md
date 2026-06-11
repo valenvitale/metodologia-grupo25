@@ -114,9 +114,26 @@ los cuales estan agrupados en carpetas en base a su funcionalidad.
 - [git diff --staged](13.%20Inspección%20de%20Cambios/Diff/git-diff---staged.md)
 
 # 14. Restauración de Archivos
+- [git restore --staged(archivo)](14.%20Restauracion%20de%20archivos/git-restore--staged-archivo.md)
+- [git restore .](14.%20Restauracion%20de%20archivos/git-restore-..md)
+- [git restore (archivo)](14.%20Restauracion%20de%20archivos/git-restore-(archivo).md)
+
 
 # 15. Reinicio de Cambios
 
+- [git reset](15.%20Reinicio%20de%20cambios/git-reset-.md)
+- [git reset --soft HEAD~1](15.%20Reinicio%20de%20cambios/git-reset--soft-HEAD-1.md)
+- [git reset --mixed HEAD~1](15.%20Reinicio%20de%20cambios/git-reset--mixed-HEAD-1.md)
+- [git reset --hard HEAD~1](15.%20Reinicio%20de%20cambios/git-reset--hard-HEAD-1.md)
+
 # 16. Reversión de Commits
 
+- [git revert hash](16.%20Reversion%20de%20commits/git-revert-hash.md)
+- [git revert --continue](16.%20Reversion%20de%20commits/git-revert--continue.md)
+- [git revert --abort](16.%20Reversion%20de%20commits/git-revert--abort.md)
+
 # 17. Limpieza
+
+- [git clean -n](17.%20Limpieza/git-clean--n.md)
+- [git clean -f](17.%20Limpieza/git-clean--f.md)
+- [git clean -fd](17.%20Limpieza/git-clean--fd.md)
