@@ -42,15 +42,34 @@ los cuales estan agrupados en carpetas en base a su funcionalidad.
 
 # 6. Ramas (Branches)
 
+[Git branch](6.%20Ramas/git-branch.md)
+[Git branch -d ](6.%20Ramas/git-branch-d-rama.md)
+[Git branch -r](6.%20Ramas/git-branch%20-r.md)
+[Git branch -a](6.%20Ramas/git-branch%20-a.md)
+
 # 7. Cambio y Creación de Ramas
 
 > Checkout:
 
+[Git checkout](7.%20Cambio%20y%20Creacion%20de%20Ramas/Checkout/git-checkout-rama.md)
+[Git checkout -b](7.%20Cambio%20y%20Creacion%20de%20Ramas/Checkout/git-checkout-b-rama.md)
+
 > Switch:
+
+[Git switch](7.%20Cambio%20y%20Creacion%20de%20Ramas/Switchh/git-switch-rama.md)
+[Git switch -c](7.%20Cambio%20y%20Creacion%20de%20Ramas/Switchh/git-switch-c-rama.md)
 
 # 8. Integración de Cambios
 
+[Git merge](8.%20Integracion%20de%20Cambios/git-merge-rama.md)
+
 # 9. Repositorios Remotos
+
+[Git remote](9.%20Repositorios%20Remotos/git-remote.md)
+[Git remote rename origin NuevoNombre](9.%20Repositorios%20Remotos/git-remote-rename-origin-nuevoNombre.md)
+[Git remote remove origin](9.%20Repositorios%20Remotos/git-remote-remove-origin.md)
+[Git remote add origin url](9.%20Repositorios%20Remotos/git-remote-add-origin-url.md)
+[Git remote -v](9.%20Repositorios%20Remotos/git-remote%20-v.md)
 
 # 10. Envío y Descarga de Cambios
 
